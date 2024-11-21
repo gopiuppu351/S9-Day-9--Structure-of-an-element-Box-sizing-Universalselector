@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.bharatHeading{
+    background-color: chocolate;
+    display: inline-block;
+}
+
+#bharat2{
+    /* padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 200px;
+    padding-bottom: 200px; */
+    padding: 50px;
+    border: 20px dotted cornflowerblue;
+}
+#bharat3{
+    padding: 50px;
+    border: 20px dashed cornflowerblue;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+
+#bharat4{
+    padding: 50px;
+    border: 20px solid cornflowerblue;
+}
+
+#bharat5{
+    padding: 50px;
+    border: 20px double cornflowerblue;
+}
+
+#bharat6{
+    padding: 50px;
+    border: 20px groove cornflowerblue;
+}
+
+#bharat7{
+    padding: 50px;
+    border: 20px ridge cornflowerblue;
+}
+
+#bharat8{
+    padding: 50px;
+    border: 20px inset cornflowerblue;
+}
+
+#bharat9{
+    padding: 50px;
+    border: 20px outset cornflowerblue;
+}
+
+#bharat10{
+    padding: 50px;
+    border: 20px outset cornflowerblue;
+    border-style: dotted dashed solid double
+}
+
+.Players{
+    width: 250px;
+    border: 20px ridge dodgerblue;
+    margin: 30px;
+}
+
+#skY1{
+    width: 250;
+    border: 20px ridge dodgerblue;
+    margin: 30px;
+    padding: 50px;
+    box-sizing: content-box;
+}
+
+#skY2{
+    width: 250;
+    border: 20px ridge dodgerblue;
+    margin: 30px;
+    padding: 50px;
+    box-sizing: border-box;
+}
+
